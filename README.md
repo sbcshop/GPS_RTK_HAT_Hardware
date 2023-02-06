@@ -8,9 +8,9 @@ The GPS-RTK HAT from SB Components set a higher standard for high-precision GPS.
 
 ## Repository Contents
 
-* [**/Documents**](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware/tree/main/Documents) - This directory contains Datasheets of the components
-* [**/Design Data**](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+* [**/Documents**]() - This directory contains Datasheets of the components
+* [**/Design Data**]() - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**]() - This directory contains 3D and STEP files
 
 ## Documentation
 
